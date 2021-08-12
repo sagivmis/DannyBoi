@@ -10,7 +10,7 @@ as it is also calculated for the leaderboard scores.
 
  ## Gameplay  
   
-    1. ![DannyBoi1](images/1.png)  
-    2. ![DannyBoi2](images/2.png)  
-    3. ![DannyBoi3r(images/3.png)  
-    4. ![DannyBoi4](images/4.png)  
+![DannyBoi1](images/1.png)  
+![DannyBoi2](images/2.png)  
+![DannyBoi3r(images/3.png)  
+![DannyBoi4](images/4.png)  
